@@ -1,12 +1,6 @@
    <!-- Sidebar -->
    <ul class="navbar-nav bg-dark sidebar sidebar-dark accordion" id="accordionSidebar">
 
-     <!-- Sidebar - Brand -->
-     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
-       <img src="Res/Local/258474.svg" width="70px" height="70px;">
-       <div class="sidebar-brand-text mx-4">NCPC Chief Secretary</div>
-     </a>
-
      <!-- Divider -->
      <hr class="sidebar-divider my-0">
 
@@ -19,11 +13,6 @@
 
      <!-- Divider -->
      <hr class="sidebar-divider">
-
-     <!-- Heading -->
-     <div class="sidebar-heading">
-       Interface
-     </div>
 
      <!-- Nav Item - Pages Collapse Menu -->
      <li class="nav-item">
@@ -54,7 +43,7 @@
      <li class="nav-item">
        <a class="nav-link" href="disposaled_vehical_info.php">
        <i class="fas fa-car-crash"></i>
-         <span>Disposaled Vehicle Information</span></a>
+         <span>Disposaled Vehicles</span></a>
      </li>
 
      <!-- Divider -->
@@ -90,11 +79,11 @@
 
          <li class="nav-item dropdown no-arrow">
              <a class="nav-link dropdown-toggle" href="index.php" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-               <span class="mr-2 d-none d-lg-inline text-gray-600 large">
-<h4 class="text-white " style="font-weight: bold; text-align: center;">
-               VEHICLE REGISTRY SYSTEM <br>
-               (Office Of The Chief Secretary -North Central Provincial Council)
-</h4>
+               <span class="d-none d-lg-inline text-gray-600 large">
+                <h4 class="text-white text-center" style="font-weight: bold;">
+                  VEHICLE REGISTRY SYSTEM <br>
+                  (North Central Provincial Council)
+                </h4>
                </span>
              </a>
            </li>
